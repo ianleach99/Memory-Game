@@ -1,0 +1,54 @@
+body
+{
+    margin: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+#game
+{
+    text-align: center;
+    margin: 50px;
+}
+
+#menu
+{
+    text-align:center;
+}
+
+#greenBtn
+{
+    background-color: #7cf760;
+}
+
+
+#redBtn
+{
+    background-color: #f53d5f;
+}
+
+
+#yellowBtn
+{
+    background-color: #fffc33;
+}
+
+
+#blueBtn
+{
+    background-color: #33b1ff;
+}
+
+
+.inputBtn
+{
+    height:200px;
+    width:200px;
+    margin:5px;
+}
